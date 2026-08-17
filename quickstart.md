@@ -28,3 +28,10 @@ Use your API key to authenticate requests to the Acme Cloud API.
 
 For security, do not share your API key publicly or commit it to source control.
 
+## Troubleshooting
+
+If an API request fails because the API key is missing, verify that:
+
+1. You created an API key in **Developer Settings → API Access**.
+2. The API key is included in the request.
+3. The `Authorization` header is formatted correctly.
