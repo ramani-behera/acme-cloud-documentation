@@ -1,24 +1,24 @@
-\# Acme Cloud API Quickstart
+# Acme Cloud API Quickstart
 
 
 
-\## Create an API key
+## Create an API key
 
 
 
-1\. Sign in to your Acme Cloud account.
+1. Sign in to your Acme Cloud account.
 
-2\. Open \*\*Developer Settings\*\*.
+2. Open **Developer Settings**.
 
-3\. Select \*\*API Access\*\*.
+3. Select **API Access**.
 
-4\. Click \*\*Create API Key\*\*.
+4. Click **Create API Key**.
 
-5\. Copy the generated API key.
+5. Copy the generated API key.
 
 
 
-\## Make your first API request
+## Make your first API request
 
 
 
