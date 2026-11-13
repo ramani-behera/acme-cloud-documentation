@@ -22,3 +22,15 @@ Make sure you have:
 ## Next Steps
 
 Refer to the user guide for detailed instructions.
+
+## Exploring the Dashboard
+
+After signing in, you can explore the dashboard to understand the available features.
+
+The dashboard provides access to the main areas of the Acme Cloud platform.
+
+### Dashboard Navigation
+
+1. Open the dashboard.
+2. Review the available navigation options.
+3. Select the section you want to explore.
