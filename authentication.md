@@ -3,7 +3,7 @@
 
 ## Overview
 
-Authentication confirms the identity of a user or application before it accesses Acme Cloud.
+Authentication verifies the identity of a user or application requesting access to Acme Cloud.
 
 ## API Key Authentication
 
