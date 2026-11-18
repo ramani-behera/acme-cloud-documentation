@@ -15,7 +15,7 @@ Acme Cloud uses API keys to authenticate API requests.
 2. Open Developer Settings.
 3. Navigate to API Access.
 4. Create an API key.
-5. Include the API key when making an API request.
+5. Include the API key in the `Authorization` header of your API request.
 
 ## Security Considerations
 
